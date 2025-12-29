@@ -35,4 +35,11 @@ git clone https://github.com/SZabolotnii/llm-agents-software-eng.git
 ```
 
 ---
+💡 **Примітка**: Контент цього репозиторію був згенерований за допомогою [NotebookLM](https://notebooklm.google.com/) на основі наукового огляду:
+> **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538)** (arXiv:2511.18538)
+
+Оригінальний файл дослідження також доступний у папці: 
+`[Додаткові матеріали/From Code Foundation Models to Agents and Applications... .pdf](./Додаткові%20матеріали/From%20Code%20Foundation%20Models%20to%20Agents%20and%20Applications:%20A%20Comprehensive%20Survey%20and%20Practical%20Guide%20to%20Code%20Intelligence.pdf)`
+
+---
 *Матеріали підготовлено для освітніх та дослідницьких цілей.*
